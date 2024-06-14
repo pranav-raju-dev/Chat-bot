@@ -40,5 +40,7 @@
 - Open your browser and navigate to http://localhost:3000 to interact with your chatbot.
 
 ```Conclusion
-This setup provides a basic chatbot UI similar to WhatsApp, handling user input and displaying bot responses. Adjust the YOUR_API_KEY and your_endpoint placeholders with your actual Gemini API details.
+Do not miss-use API key.
+This setup provides a basic chatbot UI similar to WhatsApp, handling user input and displaying bot responses.
+Adjust the YOUR_API_KEY and your_endpoint placeholders with your actual Gemini API details.
 ```
