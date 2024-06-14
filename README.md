@@ -18,7 +18,7 @@
 ### create a project
 #### npm init
 ### Install Packages
-#### npm install axios body-parser express cheerio dotenv
+#### npm install axios body-parser express cheerio dotenv cors
 #### file system (fs) will be included in the Node installation no need to install seperatly.
 
 1. check Json which must be close to this
@@ -34,7 +34,6 @@
 ```
 2. Run the Scraping and Cleaning Scripts:
 - Run node server/scrape.js to scrape the data and save it to scraped_data.json.
-- Run node server/clean.js to clean the data and save it to cleaned_data.json.
 3. Start the Server:
 - Run npm start to start the Express server.
 4. Open the UI:
