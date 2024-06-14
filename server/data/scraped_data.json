@@ -1,0 +1,1326 @@
+{
+  "title": "\nWind Breaker - MyAnimeList.net\n",
+  "links": [
+    {
+      "text": "MyAnimeList.net",
+      "href": "/"
+    },
+    {
+      "text": "\n  \n",
+      "href": "https://mxj.myanimelist.net/"
+    },
+    {
+      "text": "Hide Ads",
+      "href": "https://myanimelist.net/membership?_location=mal_h_u"
+    },
+    {
+      "text": "Login",
+      "href": "https://myanimelist.net/login.php?from=%2Fanime%2F54900%2FWind_Breaker"
+    },
+    {
+      "text": "Sign Up",
+      "href": "https://myanimelist.net/register.php?from=%2Fanime%2F54900%2FWind_Breaker"
+    },
+    {
+      "text": "\n              View all results for ${ keyword }"
+    },
+    {
+      "text": "Anime",
+      "href": "#"
+    },
+    {
+      "text": "Anime Search",
+      "href": "https://myanimelist.net/anime.php?_location=mal_h_m"
+    },
+    {
+      "text": "Top Anime",
+      "href": "https://myanimelist.net/topanime.php?_location=mal_h_m"
+    },
+    {
+      "text": "Seasonal Anime",
+      "href": "https://myanimelist.net/anime/season?_location=mal_h_m"
+    },
+    {
+      "text": "Videos",
+      "href": "https://myanimelist.net/watch/episode?_location=mal_h_m_a"
+    },
+    {
+      "text": "Reviews",
+      "href": "https://myanimelist.net/reviews.php?t=anime&_location=mal_h_m"
+    },
+    {
+      "text": "Recommendations",
+      "href": "https://myanimelist.net/recommendations.php?s=recentrecs&t=anime&_location=mal_h_m"
+    },
+    {
+      "text": "2024 Challenge",
+      "href": "https://myanimelist.net/forum?topicid=2138549&_location=mal_h_m"
+    },
+    {
+      "text": "Fantasy Anime League",
+      "href": "https://fal.myanimelist.net/?utm_source=MAL&utm_medium=headermenu&utm_campaign=fal&utm_content=falhome&_location=mal_h_m"
+    },
+    {
+      "text": "Manga",
+      "href": "#"
+    },
+    {
+      "text": "Manga Search",
+      "href": "https://myanimelist.net/manga.php?_location=mal_h_m"
+    },
+    {
+      "text": "Top Manga",
+      "href": "https://myanimelist.net/topmanga.php?_location=mal_h_m"
+    },
+    {
+      "text": "Manga Store",
+      "href": "https://myanimelist.net/store?_location=mal_h_m"
+    },
+    {
+      "text": "Reviews",
+      "href": "https://myanimelist.net/reviews.php?t=manga&_location=mal_h_m"
+    },
+    {
+      "text": "Recommendations",
+      "href": "https://myanimelist.net/recommendations.php?s=recentrecs&t=manga&_location=mal_h_m"
+    },
+    {
+      "text": "2024 Challenge",
+      "href": "https://myanimelist.net/forum?topicid=2141704&_location=mal_h_m"
+    },
+    {
+      "text": "Community",
+      "href": "#"
+    },
+    {
+      "text": "Interest Stacks",
+      "href": "https://myanimelist.net/stacks?_location=mal_h_m"
+    },
+    {
+      "text": "Forums",
+      "href": "https://myanimelist.net/forum/?_location=mal_h_m"
+    },
+    {
+      "text": "Clubs",
+      "href": "https://myanimelist.net/clubs.php?_location=mal_h_m"
+    },
+    {
+      "text": "Blogs",
+      "href": "https://myanimelist.net/blog.php?_location=mal_h_m"
+    },
+    {
+      "text": "Users",
+      "href": "https://myanimelist.net/users.php?_location=mal_h_m"
+    },
+    {
+      "text": "Industry",
+      "href": "#"
+    },
+    {
+      "text": "News",
+      "href": "https://myanimelist.net/news?_location=mal_h_m"
+    },
+    {
+      "text": "Featured Articles",
+      "href": "https://myanimelist.net/featured?_location=mal_h_m"
+    },
+    {
+      "text": "People",
+      "href": "https://myanimelist.net/people.php?_location=mal_h_m"
+    },
+    {
+      "text": "Characters",
+      "href": "https://myanimelist.net/character.php?_location=mal_h_m"
+    },
+    {
+      "text": "Companies",
+      "href": "https://myanimelist.net/company?_location=mal_h_m"
+    },
+    {
+      "text": "MAL×Japan",
+      "href": "https://mxj.myanimelist.net/?_location=mal_h_m"
+    },
+    {
+      "text": "Watch",
+      "href": "#"
+    },
+    {
+      "text": "Episode Videos",
+      "href": "https://myanimelist.net/watch/episode?_location=mal_h_m"
+    },
+    {
+      "text": "Anime Trailers",
+      "href": "https://myanimelist.net/watch/promotion?_location=mal_h_m"
+    },
+    {
+      "text": "Read",
+      "href": "#"
+    },
+    {
+      "text": "Manga Store",
+      "href": "https://myanimelist.net/store?_location=mal_h_m"
+    },
+    {
+      "text": "Help",
+      "href": "#"
+    },
+    {
+      "text": "About",
+      "href": "https://myanimelist.net/about.php?_location=mal_h_m"
+    },
+    {
+      "text": "Support",
+      "href": "https://myanimelist.net/about.php?go=support&_location=mal_h_m"
+    },
+    {
+      "text": "Advertising",
+      "href": "https://myanimelist.net/advertising?_location=mal_h_m"
+    },
+    {
+      "text": "FAQ",
+      "href": "https://myanimelist.net/forum/?topicid=515949&_location=mal_h_m"
+    },
+    {
+      "text": "Report",
+      "href": "https://myanimelist.net/modules.php?go=report&_location=mal_h_m"
+    },
+    {
+      "text": "Staff",
+      "href": "https://myanimelist.net/staff?_location=mal_h_m"
+    },
+    {
+      "text": "MAL Supporter",
+      "href": "https://myanimelist.net/membership?_location=mal_h_m"
+    },
+    {
+      "text": "Edit",
+      "href": "https://myanimelist.net/login.php?from=%2Fanime%2F54900%2FWind_Breaker&error=login_required"
+    },
+    {
+      "text": "\n      \n    ",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/pics"
+    },
+    {
+      "text": " Watch Episodes",
+      "href": "javascript:void(0)"
+    },
+    {
+      "text": "Add to My List",
+      "href": "https://myanimelist.net/ownlist/anime/add?selected_series_id=54900&hideLayout=1&click_type=list-add-anime-title-btn&more_type=1"
+    },
+    {
+      "text": "Add Detailed Info",
+      "href": "https://myanimelist.net/ownlist/anime/add?selected_series_id=54900"
+    },
+    {
+      "text": "Add to Favorites",
+      "href": "https://myanimelist.net/login.php?from=%2Fanime%2F54900%2FWind_Breaker&error=login_required"
+    },
+    {
+      "text": "",
+      "href": "http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F54900%2FWind_Breaker"
+    },
+    {
+      "text": "",
+      "href": "http://twitter.com/share?related=MyAnimeList.net&via=myanimelist&url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F54900%2FWind_Breaker&text=Wind%20Breaker&hashtags=anime"
+    },
+    {
+      "text": "",
+      "href": "http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F54900%2FWind_Breaker&title=Wind%20Breaker"
+    },
+    {
+      "text": "",
+      "href": "http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F54900%2FWind_Breaker&name=Wind%20Breaker"
+    },
+    {
+      "text": "TV",
+      "href": "https://myanimelist.net/topanime.php?type=tv"
+    },
+    {
+      "text": "Spring 2024",
+      "href": "https://myanimelist.net/anime/season/2024/spring"
+    },
+    {
+      "text": "Aniplex",
+      "href": "/anime/producer/17/Aniplex"
+    },
+    {
+      "text": "Mainichi Broadcasting System",
+      "href": "/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "text": "Kodansha",
+      "href": "/anime/producer/159/Kodansha"
+    },
+    {
+      "text": "Tohan Corporation",
+      "href": "/anime/producer/1734/Tohan_Corporation"
+    },
+    {
+      "text": "Aniplex of America",
+      "href": "/anime/producer/493/Aniplex_of_America"
+    },
+    {
+      "text": "CloverWorks",
+      "href": "/anime/producer/1835/CloverWorks"
+    },
+    {
+      "text": "\n      Web manga\n    ",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker#related_entries"
+    },
+    {
+      "text": "Action",
+      "href": "/anime/genre/1/Action"
+    },
+    {
+      "text": "Delinquents",
+      "href": "/anime/genre/55/Delinquents"
+    },
+    {
+      "text": "School",
+      "href": "/anime/genre/23/School"
+    },
+    {
+      "text": "weighted score",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "top anime",
+      "href": "/topanime.php"
+    },
+    {
+      "text": "Official Site",
+      "href": "https://wb-anime.net/"
+    },
+    {
+      "text": "@winbre_sakura",
+      "href": "https://twitter.com/winbre_sakura"
+    },
+    {
+      "text": "AniDB",
+      "href": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17963"
+    },
+    {
+      "text": "ANN",
+      "href": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27706"
+    },
+    {
+      "text": "Wikipedia",
+      "href": "https://en.wikipedia.org/wiki/Wind_Breaker"
+    },
+    {
+      "text": "Wikipedia",
+      "href": "https://ja.wikipedia.org/wiki/WIND_BREAKER_(%E6%BC%AB%E7%94%BB)"
+    },
+    {
+      "text": "Syoboi",
+      "href": "https://cal.syoboi.jp/tid/6990"
+    },
+    {
+      "text": "\n        More links\n      ",
+      "href": "#"
+    },
+    {
+      "text": "Crunchyroll",
+      "href": "https://www.crunchyroll.com/"
+    },
+    {
+      "text": "Bahamut Anime Crazy",
+      "href": "https://ani.gamer.com.tw/"
+    },
+    {
+      "text": "Bilibili Global",
+      "href": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "text": "Muse Asia",
+      "href": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    },
+    {
+      "text": "iQIYI",
+      "href": "https://www.iq.com/"
+    },
+    {
+      "text": "More services",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Details",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker"
+    },
+    {
+      "text": "Characters & Staff",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/characters"
+    },
+    {
+      "text": "Episodes",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/episode"
+    },
+    {
+      "text": "Videos",
+      "href": "/anime/54900/Wind_Breaker/video"
+    },
+    {
+      "text": "Stats",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/stats"
+    },
+    {
+      "text": "Reviews",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/reviews"
+    },
+    {
+      "text": "Recommendations",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/userrecs"
+    },
+    {
+      "text": "Interest Stacks",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/stacks"
+    },
+    {
+      "text": "News",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/news"
+    },
+    {
+      "text": "Forum",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/forum"
+    },
+    {
+      "text": "Clubs",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/clubs"
+    },
+    {
+      "text": "Pictures",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/pics"
+    },
+    {
+      "text": "\n              Top\n                          ",
+      "href": "https://myanimelist.net/"
+    },
+    {
+      "text": "\n              Anime\n                          ",
+      "href": "https://myanimelist.net/anime.php"
+    },
+    {
+      "text": "\n              Wind Breaker\n                          ",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker"
+    },
+    {
+      "text": "Spring 2024",
+      "href": "https://myanimelist.net/anime/season/2024/spring"
+    },
+    {
+      "text": "TV",
+      "href": "https://myanimelist.net/topanime.php?type=tv"
+    },
+    {
+      "text": "CloverWorks",
+      "href": "/anime/producer/1835/CloverWorks"
+    },
+    {
+      "text": "Add to My List",
+      "href": "https://myanimelist.net/ownlist/anime/add?selected_series_id=54900&hideLayout=1&click_type=list-add-anime-title-btn-att-to-my-list&more_type=1&only_white=1"
+    },
+    {
+      "text": "Watching",
+      "href": "#"
+    },
+    {
+      "text": "On-Hold",
+      "href": "#"
+    },
+    {
+      "text": "Plan to Watch",
+      "href": "#"
+    },
+    {
+      "text": "",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "PV 2play",
+      "href": "https://www.youtube.com/embed/k5qM1PoLmUc?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+      "text": "More videos",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/video"
+    },
+    {
+      "text": "Edit",
+      "href": "/dbchanges.php?aid=54900&t=synopsis"
+    },
+    {
+      "text": "Edit",
+      "href": "/dbchanges.php?aid=54900&t=relations"
+    },
+    {
+      "text": "\n                  \n                ",
+      "href": "https://myanimelist.net/manga/133081/Wind_Breaker"
+    },
+    {
+      "text": "\n                    Wind Breaker\n                  ",
+      "href": "https://myanimelist.net/manga/133081/Wind_Breaker"
+    },
+    {
+      "text": "Visit MALxJapan",
+      "href": "https://mxj.myanimelist.net/"
+    },
+    {
+      "text": "\n                \n                    \n                    Learn how to draw anime & manga from Japanese pros🎨\n                \n            ",
+      "href": "https://mxj.myanimelist.net/animeartacademy?utm_source=MAL&utm_medium=title_mxj_animeartacademy"
+    },
+    {
+      "text": "\n                \n                    \n                    Check out the most popular anisongs of Spring 2024! 🌸\n                \n            ",
+      "href": "https://mxj.myanimelist.net/anisongspring24?utm_source=MAL&utm_medium=title_mxj_anisongspring24-result"
+    },
+    {
+      "text": "\n                \n                    \n                    Join the【OSHI NO KO】Official MAL Club 🌟\n                \n            ",
+      "href": "https://mxj.myanimelist.net/club/oshinoko/?utm_source=MAL&utm_medium=title_mxj_oshinoko-club-event"
+    },
+    {
+      "text": "More characters",
+      "href": "/anime/54900/Wind_Breaker/characters"
+    },
+    {
+      "text": "\n            \n          ",
+      "href": "https://myanimelist.net/character/194888/Haruka_Sakura"
+    },
+    {
+      "text": "Sakura, Haruka",
+      "href": "https://myanimelist.net/character/194888/Haruka_Sakura"
+    },
+    {
+      "text": "Uchida, Yuuma",
+      "href": "https://myanimelist.net/people/33995/Yuuma_Uchida"
+    },
+    {
+      "text": "\n                      \n                    ",
+      "href": "https://myanimelist.net/people/33995/Yuuma_Uchida"
+    },
+    {
+      "text": "\n            \n          ",
+      "href": "https://myanimelist.net/character/203623/Hayato_Suou"
+    },
+    {
+      "text": "Suou, Hayato",
+      "href": "https://myanimelist.net/character/203623/Hayato_Suou"
+    },
+    {
+      "text": "Shimazaki, Nobunaga",
+      "href": "https://myanimelist.net/people/10989/Nobunaga_Shimazaki"
+    },
+    {
+      "text": "\n                      \n                    ",
+      "href": "https://myanimelist.net/people/10989/Nobunaga_Shimazaki"
+    },
+    {
+      "text": "\n            \n          ",
+      "href": "https://myanimelist.net/character/203668/Hajime_Umemiya"
+    },
+    {
+      "text": "Umemiya, Hajime",
+      "href": "https://myanimelist.net/character/203668/Hajime_Umemiya"
+    },
+    {
+      "text": "Nakamura, Yuuichi",
+      "href": "https://myanimelist.net/people/513/Yuuichi_Nakamura"
+    },
+    {
+      "text": "\n                      \n                    ",
+      "href": "https://myanimelist.net/people/513/Yuuichi_Nakamura"
+    },
+    {
+      "text": "\n            \n          ",
+      "href": "https://myanimelist.net/character/203648/Kyoutarou_Sugishita"
+    },
+    {
+      "text": "Sugishita, Kyoutarou",
+      "href": "https://myanimelist.net/character/203648/Kyoutarou_Sugishita"
+    },
+    {
+      "text": "Uchiyama, Kouki",
+      "href": "https://myanimelist.net/people/1764/Kouki_Uchiyama"
+    },
+    {
+      "text": "\n                      \n                    ",
+      "href": "https://myanimelist.net/people/1764/Kouki_Uchiyama"
+    },
+    {
+      "text": "\n            \n          ",
+      "href": "https://myanimelist.net/character/203644/Akihiko_Nirei"
+    },
+    {
+      "text": "Nirei, Akihiko",
+      "href": "https://myanimelist.net/character/203644/Akihiko_Nirei"
+    },
+    {
+      "text": "Chiba, Shouya",
+      "href": "https://myanimelist.net/people/37562/Shouya_Chiba"
+    },
+    {
+      "text": "\n                      \n                    ",
+      "href": "https://myanimelist.net/people/37562/Shouya_Chiba"
+    },
+    {
+      "text": "\n            \n          ",
+      "href": "https://myanimelist.net/character/203690/Touma_Hiiragi"
+    },
+    {
+      "text": "Hiiragi, Touma",
+      "href": "https://myanimelist.net/character/203690/Touma_Hiiragi"
+    },
+    {
+      "text": "Suzuki, Ryouta",
+      "href": "https://myanimelist.net/people/45025/Ryouta_Suzuki"
+    },
+    {
+      "text": "\n                      \n                    ",
+      "href": "https://myanimelist.net/people/45025/Ryouta_Suzuki"
+    },
+    {
+      "text": "\n            \n          ",
+      "href": "https://myanimelist.net/character/203645/Kotoha_Tachibana"
+    },
+    {
+      "text": "Tachibana, Kotoha",
+      "href": "https://myanimelist.net/character/203645/Kotoha_Tachibana"
+    },
+    {
+      "text": "Hasegawa, Ikumi",
+      "href": "https://myanimelist.net/people/48048/Ikumi_Hasegawa"
+    },
+    {
+      "text": "\n                      \n                    ",
+      "href": "https://myanimelist.net/people/48048/Ikumi_Hasegawa"
+    },
+    {
+      "text": "\n            \n          ",
+      "href": "https://myanimelist.net/character/203717/Jou_Togame"
+    },
+    {
+      "text": "Togame, Jou",
+      "href": "https://myanimelist.net/character/203717/Jou_Togame"
+    },
+    {
+      "text": "Umehara, Yuuichirou",
+      "href": "https://myanimelist.net/people/34209/Yuuichirou_Umehara"
+    },
+    {
+      "text": "\n                      \n                    ",
+      "href": "https://myanimelist.net/people/34209/Yuuichirou_Umehara"
+    },
+    {
+      "text": "\n            \n          ",
+      "href": "https://myanimelist.net/character/204452/Ren_Kaji"
+    },
+    {
+      "text": "Kaji, Ren",
+      "href": "https://myanimelist.net/character/204452/Ren_Kaji"
+    },
+    {
+      "text": "Okamoto, Nobuhiko",
+      "href": "https://myanimelist.net/people/270/Nobuhiko_Okamoto"
+    },
+    {
+      "text": "\n                      \n                    ",
+      "href": "https://myanimelist.net/people/270/Nobuhiko_Okamoto"
+    },
+    {
+      "text": "\n            \n          ",
+      "href": "https://myanimelist.net/character/204456/Mitsuki_Kiryuu"
+    },
+    {
+      "text": "Kiryuu, Mitsuki",
+      "href": "https://myanimelist.net/character/204456/Mitsuki_Kiryuu"
+    },
+    {
+      "text": "Toyonaga, Toshiyuki",
+      "href": "https://myanimelist.net/people/600/Toshiyuki_Toyonaga"
+    },
+    {
+      "text": "\n                      \n                    ",
+      "href": "https://myanimelist.net/people/600/Toshiyuki_Toyonaga"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "More staff",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/characters#staff"
+    },
+    {
+      "text": "\n            \n          ",
+      "href": "https://myanimelist.net/people/64572/Toshihiro_Maeda"
+    },
+    {
+      "text": "Maeda, Toshihiro",
+      "href": "https://myanimelist.net/people/64572/Toshihiro_Maeda"
+    },
+    {
+      "text": "\n            \n          ",
+      "href": "https://myanimelist.net/people/38370/Yuuichi_Fukushima"
+    },
+    {
+      "text": "Fukushima, Yuuichi",
+      "href": "https://myanimelist.net/people/38370/Yuuichi_Fukushima"
+    },
+    {
+      "text": "\n            \n          ",
+      "href": "https://myanimelist.net/people/64617/Kyouko_Uryuu"
+    },
+    {
+      "text": "Uryuu, Kyouko",
+      "href": "https://myanimelist.net/people/64617/Kyouko_Uryuu"
+    },
+    {
+      "text": "\n            \n          ",
+      "href": "https://myanimelist.net/people/63622/Masae_Yamato"
+    },
+    {
+      "text": "Yamato, Masae",
+      "href": "https://myanimelist.net/people/63622/Masae_Yamato"
+    },
+    {
+      "text": "Edit",
+      "href": "https://myanimelist.net/dbchanges.php?aid=54900&t=theme"
+    },
+    {
+      "text": "Edit",
+      "href": "https://myanimelist.net/dbchanges.php?aid=54900&t=theme&themetype=2"
+    },
+    {
+      "text": "More Videos",
+      "href": "/anime/54900/Wind_Breaker/video"
+    },
+    {
+      "text": "\n            Episode 8",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/episode/8"
+    },
+    {
+      "text": "\n            Episode 7",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/episode/7"
+    },
+    {
+      "text": "\n            Episode 6",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/episode/6"
+    },
+    {
+      "text": "\n            Episode 5",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/episode/5"
+    },
+    {
+      "text": " Write review",
+      "href": "https://myanimelist.net/myreviews.php?seriesid=54900&go=write"
+    },
+    {
+      "text": "\n          \n          16\n          Recommended",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/reviews?filter_check=1"
+    },
+    {
+      "text": "\n          \n          7\n          Mixed Feelings",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/reviews?filter_check=2"
+    },
+    {
+      "text": "\n          \n          9\n          Not Recommended",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/reviews?filter_check=3"
+    },
+    {
+      "text": " All reviews (32)",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/reviews"
+    },
+    {
+      "text": "\n        \n      ",
+      "href": "https://myanimelist.net/profile/mintalade"
+    },
+    {
+      "text": "mintalade",
+      "href": "https://myanimelist.net/profile/mintalade"
+    },
+    {
+      "text": "More reviews by mintalade (1)\n            ",
+      "href": "/profile/mintalade/reviews"
+    },
+    {
+      "text": "Read more",
+      "href": "#"
+    },
+    {
+      "text": "Show less",
+      "href": "#"
+    },
+    {
+      "text": "Open\n            ",
+      "href": "https://myanimelist.net/reviews.php?id=523351"
+    },
+    {
+      "text": "Gift\n            ",
+      "href": "https://myanimelist.net/membership"
+    },
+    {
+      "text": "",
+      "href": "#"
+    },
+    {
+      "text": "Report",
+      "href": "https://myanimelist.net/dbchanges.php?go=reportreview&id=523351"
+    },
+    {
+      "text": "\n        \n      ",
+      "href": "https://myanimelist.net/profile/Ba-Cii10"
+    },
+    {
+      "text": "Ba-Cii10",
+      "href": "https://myanimelist.net/profile/Ba-Cii10"
+    },
+    {
+      "text": "More reviews by Ba-Cii10 (21)\n            ",
+      "href": "/profile/Ba-Cii10/reviews"
+    },
+    {
+      "text": "Read more",
+      "href": "#"
+    },
+    {
+      "text": "Show less",
+      "href": "#"
+    },
+    {
+      "text": "Open\n            ",
+      "href": "https://myanimelist.net/reviews.php?id=524464"
+    },
+    {
+      "text": "Gift\n            ",
+      "href": "https://myanimelist.net/membership"
+    },
+    {
+      "text": "",
+      "href": "#"
+    },
+    {
+      "text": "Report",
+      "href": "https://myanimelist.net/dbchanges.php?go=reportreview&id=524464"
+    },
+    {
+      "text": "\n        \n      ",
+      "href": "https://myanimelist.net/profile/Benedito29"
+    },
+    {
+      "text": "Benedito29",
+      "href": "https://myanimelist.net/profile/Benedito29"
+    },
+    {
+      "text": "More reviews by Benedito29 (4)\n            ",
+      "href": "/profile/Benedito29/reviews"
+    },
+    {
+      "text": "Read more",
+      "href": "#"
+    },
+    {
+      "text": "Show less",
+      "href": "#"
+    },
+    {
+      "text": "Open\n            ",
+      "href": "https://myanimelist.net/reviews.php?id=522838"
+    },
+    {
+      "text": "Gift\n            ",
+      "href": "https://myanimelist.net/membership"
+    },
+    {
+      "text": "",
+      "href": "#"
+    },
+    {
+      "text": "Report",
+      "href": "https://myanimelist.net/dbchanges.php?go=reportreview&id=522838"
+    },
+    {
+      "text": "More stacks",
+      "href": "/anime/54900/Wind_Breaker/stacks"
+    },
+    {
+      "text": "\n          \n                          \n                                      \n                      \n        ",
+      "href": "https://myanimelist.net/stacks/48541"
+    },
+    {
+      "text": "Spring 2024 Recommendation",
+      "href": "https://myanimelist.net/stacks/48541"
+    },
+    {
+      "text": "Mythicalx",
+      "href": "https://myanimelist.net/profile/Mythicalx"
+    },
+    {
+      "text": "\n          \n                          \n                                      \n                      \n        ",
+      "href": "https://myanimelist.net/stacks/47258"
+    },
+    {
+      "text": "comfort shows without romance!",
+      "href": "https://myanimelist.net/stacks/47258"
+    },
+    {
+      "text": "beelyfreely",
+      "href": "https://myanimelist.net/profile/beelyfreely"
+    },
+    {
+      "text": "\n          \n                          \n                                      \n                      \n        ",
+      "href": "https://myanimelist.net/stacks/48440"
+    },
+    {
+      "text": "it's been one of those weeks, pass the shipbait 🍷🐟",
+      "href": "https://myanimelist.net/stacks/48440"
+    },
+    {
+      "text": "yonappi_mal",
+      "href": "https://myanimelist.net/profile/yonappi_mal"
+    },
+    {
+      "text": "More recommendations",
+      "href": "/anime/54900/Wind_Breaker/userrecs"
+    },
+    {
+      "text": "\n      View All\n      \n    ",
+      "href": "https://myanimelist.net/anime/54900/Wind_Breaker/userrecs"
+    },
+    {
+      "text": "Ao no Exorcist1 User",
+      "href": "https://myanimelist.net/recommendations/anime/9919-54900"
+    },
+    {
+      "text": "Tokyo Revengers1 User",
+      "href": "https://myanimelist.net/recommendations/anime/42249-54900"
+    },
+    {
+      "text": "Bungou Stray Dogs1 User",
+      "href": "https://myanimelist.net/recommendations/anime/31478-54900"
+    },
+    {
+      "text": "Kidou Butouden G Gundam1 User",
+      "href": "https://myanimelist.net/recommendations/anime/96-54900"
+    },
+    {
+      "text": "Litchi DE Hikari Club1 User",
+      "href": "https://myanimelist.net/recommendations/anime/15045-54900"
+    },
+    {
+      "text": "Kaijuu 8-gouAutoRec",
+      "href": "https://myanimelist.net/anime/52588/Kaijuu_8-gou?suggestion"
+    },
+    {
+      "text": "Chiyu Mahou no Machigatta TsukaikataAutoRec",
+      "href": "https://myanimelist.net/anime/49613/Chiyu_Mahou_no_Machigatta_Tsukaikata?suggestion"
+    },
+    {
+      "text": "Undead UnluckAutoRec",
+      "href": "https://myanimelist.net/anime/52741/Undead_Unluck?suggestion"
+    },
+    {
+      "text": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa ArimasenAutoRec",
+      "href": "https://myanimelist.net/anime/54837/Akuyaku_Reijou_Level_99__Watashi_wa_Ura-Boss_desu_ga_Maou_dewa_Arimasen?suggestion"
+    },
+    {
+      "text": "Rinkai!AutoRec",
+      "href": "https://myanimelist.net/anime/54859/Rinkai?suggestion"
+    },
+    {
+      "text": "Tougen AnkiAutoRec",
+      "href": "https://myanimelist.net/anime/58811/Tougen_Anki?suggestion"
+    },
+    {
+      "text": "Hibike! Euphonium 3AutoRec",
+      "href": "https://myanimelist.net/anime/39894/Hibike_Euphonium_3?suggestion"
+    },
+    {
+      "text": "Yuru Camp△ Season 3AutoRec",
+      "href": "https://myanimelist.net/anime/53410/Yuru_Camp△_Season_3?suggestion"
+    },
+    {
+      "text": "Sentai DaishikkakuAutoRec",
+      "href": "https://myanimelist.net/anime/53770/Sentai_Daishikkaku?suggestion"
+    },
+    {
+      "text": "More news",
+      "href": "/anime/54900/Wind_Breaker/news"
+    },
+    {
+      "text": "",
+      "href": "/news/70899083"
+    },
+    {
+      "text": "'Wind Breaker' Announces Additional Cast",
+      "href": "/news/70899083"
+    },
+    {
+      "text": "read more",
+      "href": "/news/70899083"
+    },
+    {
+      "text": "Hyperion_PS",
+      "href": "/profile/Hyperion_PS"
+    },
+    {
+      "text": "Discuss (3 comments)",
+      "href": "/forum/?topicid=2156227"
+    },
+    {
+      "text": "",
+      "href": "/news/70824865"
+    },
+    {
+      "text": "Spring 2024 Simulcast List [Update 5/6]",
+      "href": "/news/70824865"
+    },
+    {
+      "text": "read more",
+      "href": "/news/70824865"
+    },
+    {
+      "text": "Snow",
+      "href": "/profile/Snow"
+    },
+    {
+      "text": "Discuss (29 comments)",
+      "href": "/forum/?topicid=2154248"
+    },
+    {
+      "text": "",
+      "href": "/forum/?animeid=54900"
+    },
+    {
+      "text": "More discussions",
+      "href": "/anime/54900/Wind_Breaker/forum"
+    },
+    {
+      "text": "",
+      "href": "https://myanimelist.net/login.php?from=%2Fanime%2F54900%2FWind_Breaker&error=login_required"
+    },
+    {
+      "text": "Wind Breaker Episode 1 Discussion",
+      "href": "/forum/?topicid=2154010"
+    },
+    {
+      "text": "1",
+      "href": "/forum/?topicid=2154010&show=0"
+    },
+    {
+      "text": "2",
+      "href": "/forum/?topicid=2154010&show=50"
+    },
+    {
+      "text": "3",
+      "href": "/forum/?topicid=2154010&show=100"
+    },
+    {
+      "text": "4",
+      "href": "/forum/?topicid=2154010&show=150"
+    },
+    {
+      "text": "5",
+      "href": "/forum/?topicid=2154010&show=200"
+    },
+    {
+      "text": "Stark700",
+      "href": "/profile/Stark700"
+    },
+    {
+      "text": "suryavanapalli",
+      "href": "/profile/suryavanapalli"
+    },
+    {
+      "text": "»»",
+      "href": "/forum/?topicid=2154010&goto=lastpost"
+    },
+    {
+      "text": "",
+      "href": "https://myanimelist.net/login.php?from=%2Fanime%2F54900%2FWind_Breaker&error=login_required"
+    },
+    {
+      "text": "Wind Breaker Episode 11 Discussion",
+      "href": "/forum/?topicid=2164529"
+    },
+    {
+      "text": "Stark700",
+      "href": "/profile/Stark700"
+    },
+    {
+      "text": "Vicmiceli",
+      "href": "/profile/Vicmiceli"
+    },
+    {
+      "text": "»»",
+      "href": "/forum/?topicid=2164529&goto=lastpost"
+    },
+    {
+      "text": "",
+      "href": "https://myanimelist.net/login.php?from=%2Fanime%2F54900%2FWind_Breaker&error=login_required"
+    },
+    {
+      "text": "Wind Breaker Episode 2 Discussion",
+      "href": "/forum/?topicid=2155165"
+    },
+    {
+      "text": "1",
+      "href": "/forum/?topicid=2155165&show=0"
+    },
+    {
+      "text": "2",
+      "href": "/forum/?topicid=2155165&show=50"
+    },
+    {
+      "text": "3",
+      "href": "/forum/?topicid=2155165&show=100"
+    },
+    {
+      "text": "Stark700",
+      "href": "/profile/Stark700"
+    },
+    {
+      "text": "Alisa_kim",
+      "href": "/profile/Alisa_kim"
+    },
+    {
+      "text": "»»",
+      "href": "/forum/?topicid=2155165&goto=lastpost"
+    },
+    {
+      "text": "",
+      "href": "https://myanimelist.net/login.php?from=%2Fanime%2F54900%2FWind_Breaker&error=login_required"
+    },
+    {
+      "text": "Wind Breaker Episode 9 Discussion",
+      "href": "/forum/?topicid=2162347"
+    },
+    {
+      "text": "1",
+      "href": "/forum/?topicid=2162347&show=0"
+    },
+    {
+      "text": "2",
+      "href": "/forum/?topicid=2162347&show=50"
+    },
+    {
+      "text": "3",
+      "href": "/forum/?topicid=2162347&show=100"
+    },
+    {
+      "text": "Stark700",
+      "href": "/profile/Stark700"
+    },
+    {
+      "text": "Magicmist",
+      "href": "/profile/Magicmist"
+    },
+    {
+      "text": "»»",
+      "href": "/forum/?topicid=2162347&goto=lastpost"
+    },
+    {
+      "text": "",
+      "href": "https://myanimelist.net/login.php?from=%2Fanime%2F54900%2FWind_Breaker&error=login_required"
+    },
+    {
+      "text": "Definitely carried by animation ",
+      "href": "/forum/?topicid=2163699"
+    },
+    {
+      "text": "1",
+      "href": "/forum/?topicid=2163699&show=0"
+    },
+    {
+      "text": "2",
+      "href": "/forum/?topicid=2163699&show=50"
+    },
+    {
+      "text": "Yeshaiah2015yesh",
+      "href": "/profile/Yeshaiah2015yesh"
+    },
+    {
+      "text": "Cielord",
+      "href": "/profile/Cielord"
+    },
+    {
+      "text": "»»",
+      "href": "/forum/?topicid=2163699&goto=lastpost"
+    },
+    {
+      "text": "More",
+      "href": "https://myanimelist.net/topanime.php"
+    },
+    {
+      "text": "Sousou no Frieren",
+      "href": "https://myanimelist.net/anime/52991/Sousou_no_Frieren"
+    },
+    {
+      "text": "Fullmetal Alchemist: Brotherhood",
+      "href": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood"
+    },
+    {
+      "text": "Steins;Gate",
+      "href": "https://myanimelist.net/anime/9253/Steins_Gate"
+    },
+    {
+      "text": "Gintama°",
+      "href": "https://myanimelist.net/anime/28977/Gintama°"
+    },
+    {
+      "text": "Shingeki no Kyojin Season 3 Part 2",
+      "href": "https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2"
+    },
+    {
+      "text": "More",
+      "href": "https://myanimelist.net/topanime.php?type=airing"
+    },
+    {
+      "text": "One Piece",
+      "href": "https://myanimelist.net/anime/21/One_Piece"
+    },
+    {
+      "text": "Hibike! Euphonium 3",
+      "href": "https://myanimelist.net/anime/39894/Hibike_Euphonium_3"
+    },
+    {
+      "text": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+      "href": "https://myanimelist.net/anime/49458/Kono_Subarashii_Sekai_ni_Shukufuku_wo_3"
+    },
+    {
+      "text": "Doupo Cangqiong: Nian Fan",
+      "href": "https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan"
+    },
+    {
+      "text": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+      "href": "https://myanimelist.net/anime/55888/Mushoku_Tensei_II__Isekai_Ittara_Honki_Dasu_Part_2"
+    },
+    {
+      "text": "More",
+      "href": "https://myanimelist.net/character.php"
+    },
+    {
+      "text": "Lamperouge, Lelouch",
+      "href": "https://myanimelist.net/character/417/Lelouch_Lamperouge"
+    },
+    {
+      "text": "Levi",
+      "href": "https://myanimelist.net/character/45627/Levi"
+    },
+    {
+      "text": "Monkey D., Luffy",
+      "href": "https://myanimelist.net/character/40/Luffy_Monkey_D"
+    },
+    {
+      "text": "Lawliet, L",
+      "href": "https://myanimelist.net/character/71/L_Lawliet"
+    },
+    {
+      "text": "Roronoa, Zoro",
+      "href": "https://myanimelist.net/character/62/Zoro_Roronoa"
+    },
+    {
+      "text": "",
+      "href": "https://www.facebook.com/OfficialMyAnimeList"
+    },
+    {
+      "text": "",
+      "href": "https://twitter.com/myanimelist"
+    },
+    {
+      "text": "",
+      "href": "https://www.instagram.com/myanimelistofficial/"
+    },
+    {
+      "text": "",
+      "href": "https://discord.gg/myanimelist"
+    },
+    {
+      "text": "\n          \n        ",
+      "href": "https://apps.apple.com/us/app/myanimelist-official/id1469330778?md=8&ct=pc_footer"
+    },
+    {
+      "text": "\n          \n        ",
+      "href": "https://play.google.com/store/apps/details?utm_campaign=pc_footer&id=net.myanimelist.app&utm_source=mal"
+    },
+    {
+      "text": "Home",
+      "href": "https://myanimelist.net/"
+    },
+    {
+      "text": "About",
+      "href": "https://myanimelist.net/about.php"
+    },
+    {
+      "text": "Press Room",
+      "href": "https://myanimelist.net/pressroom"
+    },
+    {
+      "text": "Support",
+      "href": "https://myanimelist.net/about.php?go=contact"
+    },
+    {
+      "text": "Advertising",
+      "href": "https://myanimelist.net/advertising"
+    },
+    {
+      "text": "FAQ",
+      "href": "https://myanimelist.net/forum/?topicid=515949"
+    },
+    {
+      "text": "Terms",
+      "href": "https://myanimelist.net/about/terms_of_use"
+    },
+    {
+      "text": "Privacy",
+      "href": "https://myanimelist.net/about/privacy_policy"
+    },
+    {
+      "text": "Privacy Settings",
+      "href": "#/"
+    },
+    {
+      "text": "Do Not Sell My Personal Information",
+      "href": "#/"
+    },
+    {
+      "text": "Cookie",
+      "href": "https://myanimelist.net/about/cookie_policy"
+    },
+    {
+      "text": "Notice at Collection",
+      "href": "https://myanimelist.net/about/notice_at_collection"
+    },
+    {
+      "text": "Sitemap",
+      "href": "https://myanimelist.net/about/sitemap"
+    },
+    {
+      "text": "Login",
+      "href": "https://myanimelist.net/login.php?from=%2Fanime%2F54900%2FWind_Breaker"
+    },
+    {
+      "text": "Sign Up",
+      "href": "https://myanimelist.net/register.php?from=%2Fanime%2F54900%2FWind_Breaker"
+    },
+    {
+      "text": "Tokyo Otaku Mode",
+      "href": "http://otakumode.com/fb/5aO"
+    },
+    {
+      "text": "Honeyfeed",
+      "href": "https://www.honeyfeed.fm/"
+    },
+    {
+      "text": "Manga Store",
+      "href": "https://myanimelist.net/store?_location=mal_f_m"
+    },
+    {
+      "text": "Privacy Policy",
+      "href": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "href": "https://policies.google.com/terms"
+    }
+  ]
+}

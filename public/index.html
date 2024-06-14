@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot UI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <center><h4>Tune Bot</h4><hr/></center>
+        <div id="chat-box" class="chat-box"></div>
+        <p class="loading " id="loading-indicator" style="display: none;">Fetch relevent info...</p>
+        <form id="chat-form" class="chat-form">
+            <input type="text" id="chat-input" class="chat-input" placeholder="Type your message...">
+            <button type="submit" class="chat-submit" id="submit-button">Send</button>
+        </form>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
