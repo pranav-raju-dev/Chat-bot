@@ -23,6 +23,11 @@
     ├── package.json
     └── package-lock.json
 ```
+#### clone project 
+```
+https://github.com/darshan1005/ChatBot.git
+```
+or
 ### create a project
 #### npm init
 ### Install Packages
