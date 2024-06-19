@@ -4,18 +4,22 @@
     - Also we can restrict bot using NLP pacakges *compromise* & *natural*
 ```FolderStructure
     chatbot_project/
-    ├── server/
-    │   ├── index.js
-    │   ├── scrape.js
-    │   ├── clean.js
-    │   ├── data/
-    │   │   ├── scraped_data.json
-    │   │   └── cleaned_data.json
+    ├── node_modules
     ├── public/
+    │   ├── app.js
     │   ├── index.html
-    │   ├── styles.css
-    │   └── app.js
+    │   └── styles.css
+    ├── server/
+    │   ├── data/
+    │   │   └── scraped_data.json
+    │   ├── index.js
+    │   ├── scrape_data_cleanup.js
+    │   └── scrape.js
+    │   
     ├── .env
+    ├── .gitignore
+    ├── license
+    ├── README.md
     ├── package.json
     └── package-lock.json
 ```
