@@ -35,12 +35,12 @@
     "express": "^4.19.2"
   }
 ```
-2. Run the Scraping and Cleaning Scripts:
-- Run node server/scrape.js to scrape the data and save it to scraped_data.json.
-3. Start the Server:
-- Run npm start to start the Express server.
-4. Open the UI:
-- Open your browser and navigate to http://localhost:3000 to interact with your chatbot.
+2. Run the Scraping and Cleaning Scripts
+    - Run node server/scrape.js to scrape the data and save it to scraped_data.json.
+3. Start the Server
+    - Run npm start to start the Express server.
+4. Open the UI
+    - Open your browser and navigate to http://localhost:3000 to interact with your chatbot.
 
 ```Conclusion
 This setup provides a basic chatbot UI similar to WhatsApp, handling user input and displaying bot responses. Adjust the YOUR_API_KEY and your_endpoint placeholders with your actual Gemini API details.
