@@ -101,5 +101,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Call fetchData function with the desired URL
-    fetchData('https://myanimelist.net/anime/54900/Wind_Breaker');
+    fetchData('https://gohugo.io/');
 });

@@ -1,3 +1,6 @@
+### Data scraping from website was done using cheerio package 
+### Bot was self restricted responses from internet using Keyword match
+#### Also we can restrict bot using NLP pacakges **compromise** & **natural**
 ```FolderStructure
     chatbot_project/
     ├── server/
@@ -40,7 +43,5 @@
 - Open your browser and navigate to http://localhost:3000 to interact with your chatbot.
 
 ```Conclusion
-Do not miss-use API key.
-This setup provides a basic chatbot UI similar to WhatsApp, handling user input and displaying bot responses.
-Adjust the YOUR_API_KEY and your_endpoint placeholders with your actual Gemini API details.
+This setup provides a basic chatbot UI similar to WhatsApp, handling user input and displaying bot responses. Adjust the YOUR_API_KEY and your_endpoint placeholders with your actual Gemini API details.
 ```

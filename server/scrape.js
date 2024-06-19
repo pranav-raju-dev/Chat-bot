@@ -8,13 +8,20 @@ const scrape = async (url) => {
         const $ = cheerio.load(data);
         const title = $('title').text();
         let result = [];
+        let keywords = [];
+
         $('a').each((i, link) => {
-            result.push({
-                text: $(link).text(),
-                href: $(link).attr('href')
-            });
+            const text = $(link).text();
+            if (text) {
+                result.push({
+                    text: text,
+                    href: $(link).attr('href')
+                });
+                keywords.push(text.toLowerCase());
+            }
         });
-        const scrapedData = { title, links: result };
+
+        const scrapedData = { title, links: result, keywords: keywords };
         fs.writeFileSync('server/data/scraped_data.json', JSON.stringify(scrapedData, null, 2));
         console.log('Data scraped successfully.');
     } catch (err) {
@@ -22,4 +29,4 @@ const scrape = async (url) => {
     }
 };
 
-scrape('https://myanimelist.net/anime/54900/Wind_Breaker');
+scrape('https://gohugo.io/');
