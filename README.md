@@ -1,6 +1,7 @@
 ### Data scraping from website was done using cheerio package 
 ### Bot was self restricted responses from internet using Keyword match
-#### Also we can restrict bot using NLP pacakges *compromise* & *natural*
+#### Under execution
+    - Also we can restrict bot using NLP pacakges *compromise* & *natural*
 ```FolderStructure
     chatbot_project/
     ├── server/
