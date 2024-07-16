@@ -51,6 +51,11 @@ or
     - Run npm start to start the Express server.
 4. Open the UI
     - Open your browser and navigate to http://localhost:3000 to interact with your chatbot.
+  
+# Note : 
+``
+The scraping technique was implememted in 2 ways , single page scraping (scrape.js) & multiple pages scrape (scrape_multiple.js). When performing mutiple pages scraping the payload may be very high where couldn't respond to the user inputs, implementation of payload chuncks could solve this issue.
+``
 
 ``
 This setup provides a basic chatbot UI, handling user input and displaying bot responses. Adjust the YOUR_API_KEY and your_endpoint placeholders with your actual Gemini API details.
