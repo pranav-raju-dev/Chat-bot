@@ -59,7 +59,7 @@ This setup provides a basic chatbot UI, handling user input and displaying bot r
 ``
 
 ``
-The scraping technique was implememted in 2 ways , single page scraping (scrape.js) & multiple pages scrape (scrape_multiple.js). When performing mutiple pages scraping the payload may be very high where couldn't respond to the user inputs, implementation of payload chuncks could solve this issue.
+The scraping technique was implememted in 2 ways , single page scraping (scrape.js) & multiple pages scrape (scrape_multiple.js). When performing mutiple pages scraping the payload(data -> scraped_data.json) may be very high where couldn't respond to the user inputs, implementation of payload chuncks could solve this issue.
 ``
 
 # output
